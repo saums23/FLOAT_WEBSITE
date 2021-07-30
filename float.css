@@ -1,0 +1,35 @@
+body{ background-color: whitesmoke; }
+
+#id1{background-color:lightblue;
+	height: 150px;
+	padding: 10px;
+}
+
+#id2{ text-decoration: underline;
+	 padding-left: 215px;
+	 font-size: 20px;
+
+}
+
+.class1{ float: left;
+        border-radius: 100%;}
+
+.class5{
+	float: right;
+	border-radius: 90px;
+}  
+
+p{ font-size:20px; line-height:25px;
+	text-align: justify;
+
+}   
+
+.class9{ float:left; 
+         padding-top: 15px; padding-left: 20px;
+} 
+
+.class3{ 
+         border: 8px solid lightblue;
+         height: 545px;
+ }  
+
